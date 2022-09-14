@@ -8,9 +8,6 @@ import Jwt  from 'jsonwebtoken';
 
 
 
-
-
-
 const conectarDB = async ()=>{
 
     
