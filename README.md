@@ -1,5 +1,7 @@
 BACK END und FRONT END Projekt Red Social mit React GraphQL Apollo MongoDB y AWS.
 
+frontend https://github.com/kyleakaly/FRONT-END-Projekt-Red-Social-mit-React-GraphQL-Apollo-MongoDB-y-AWS
+
 En este documento podras hacer una copia de mi repositorio de Backend y podras ver un proyecto.
 Donde podras encontrar tanto frontend y backend.
 
